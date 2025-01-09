@@ -1,6 +1,7 @@
 # Goodwin Economic Model in Dynamic Systems
 
-This repository contains simulations and analyses of the Goodwin model in economics, focusing on dynamic systems. The work is part of a course on **dynamic systems**. The repository includes two main sections: modeling and simulation of a nonlinear dynamic system, as well as an in-depth analysis of the system's behavior, sensitivity, and stability.
+This repository provides simulations and analyses of the Goodwin growth-cycle model, a cornerstone in economic dynamics. The focus is on understanding and evaluating this nonlinear dynamic system through modeling, simulation, and in-depth system analysis. This work is part of a course on dynamic systems and covers two main practices: the modeling and simulation of a nonlinear dynamic system and an extensive analysis of its behavior, sensitivity, and stability.
+
 
 ## Folders Structure
 
