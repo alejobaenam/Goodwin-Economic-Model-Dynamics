@@ -46,6 +46,21 @@ This section focuses on the analysis of the nonlinear dynamic system:
 - Sensitivity and uncertainty analysis using the GSUA method.
 - Model validation with simulations and comparison with literature.
 
+## Images
+### Temporal Response of the Nonlinear System
+![Temporal Response](images/temporal_response.png)
+
+### Simulink Model
+![Simulink Model](images/model.png)
+
+### Comparison Between Linear and Nonlinear Models
+![Comparison](images/comparison.png)
+
+### Uncertainty Analysis
+![Uncertainty Analysis](images/uncertainty.png)
+
+---
+
 ## How to Use
 
 1. Open the Simulink models (`Modelo.slx`, `Modelo_linmod.slx`, etc.) to explore different simulations.
