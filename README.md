@@ -52,6 +52,17 @@ This section focuses on the analysis of the nonlinear dynamic system:
 2. Use the Live Scripts (`Practica1.mlx`, `Informe.mlx`) for detailed results, including graphs and analysis.
 3. Adjust parameters in the Simulink models and run simulations to study system behavior under different conditions.
 
+## References
+
+[1] Carlos M. Velez S. (2024). Sistemas dinámicos en contexto: Modelación matemática, simulación, estimación y control con MATLAB.  
+[2] Carlos M. Velez S. (2024). Global sensitivity and uncertainty analysis (GSUA) ([MATLAB Central File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/47758-global-sensitivity-and-uncertainty-analysis-gsua)), MATLAB Central File Exchange.  
+[3] Grasselli, M.R., Costa Lima, B (2012). An analysis of the Keen model for credit expansion, asset price bubbles and financial fragility. Math Finan Econ 6, 191–210. [https://doi.org/10.1007/s11579-012-0071-8](https://doi.org/10.1007/s11579-012-0071-8).
+[4] Grasselli, M. R. The Goodwin Model. McMaster University. [https://ms.mcmaster.ca/~grasselli/goodwin.html](https://ms.mcmaster.ca/~grasselli/goodwin.html)  
+[5] Almeida, Mafalda Oliveira Martins Bastos de (2017). "The Lotka-Volterra equations in finance and economics". Dissertação de Mestrado, Universidade de Lisboa. Instituto Superior de Economia e Gestão.  
+[6] Mahmud, Sri & Resmawan, Resmawan & Ismail, Sumarno & Nurwan, Nurwan & Taki, Febriani. (2022). Goodwin Model with Clustering Workers' Skills in Indonesian Economic Cycle. CAUCHY. 7. 249-266. [10.18860/ca.v7i2.13458](https://doi.org/10.18860/ca.v7i2.13458).  
+[7] Wikipedia contributors. (2023) Goodwin model (economics). Wikipedia. [https://en.wikipedia.org/wiki/Goodwin_model_(economics)](https://en.wikipedia.org/wiki/Goodwin_model_(economics))  
+[8] MathWorks. Simulink. [https://la.mathworks.com/help/simulink/](https://la.mathworks.com/help/simulink/)
+
 ## Collaborators
 
 - [Luis Baena](https://www.github.com/alejobaenam)
