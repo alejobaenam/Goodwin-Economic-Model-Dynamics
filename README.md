@@ -5,9 +5,9 @@ This repository provides simulations and analyses of the Goodwin growth-cycle mo
 
 ## Folders Structure
 
-- **Nonlinear-System-Modeling-Simulation**: Contains the model simulation and results from the first practice, including system modeling, simulation under various inputs, and graphical analysis.
+- **Delivery1 - Modeling & Simulation**: Contains the model simulation and results from the first practice, including system modeling, simulation under various inputs, and graphical analysis.
   
-- **Nonlinear-System-Analysis**: Includes the second practice focused on the analysis of the dynamic system, stability, sensitivity, uncertainty analysis, and comparison between linear and nonlinear models.
+- **Delivery2 - Stability & Sensitivity Analysis**: Includes the second practice focused on the analysis of the dynamic system, stability, sensitivity, uncertainty analysis, and comparison between linear and nonlinear models.
 
 ## Requirements
 
