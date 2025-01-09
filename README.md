@@ -48,16 +48,28 @@ This section focuses on the analysis of the nonlinear dynamic system:
 
 ## Images
 ### Temporal Response of the Nonlinear System
-![Temporal Response](images/temporal_response.png)
+
+<p align="center">
+  <img src="images/temporal_response.png" alt="Temporal response" width="600">
+</p>
 
 ### Simulink Model
-![Simulink Model](images/model.png)
+
+<p align="center">
+  <img src="images/model.png" alt="Simulink Model" width="600">
+</p>
 
 ### Comparison Between Linear and Nonlinear Models
-![Comparison](images/comparison.png)
+
+<p align="center">
+  <img src="images/comparison.png" alt="Comparison" width="600">
+</p>
 
 ### Uncertainty Analysis
-![Uncertainty Analysis](images/uncertainty.png)
+
+<p align="center">
+  <img src="images/uncertainty.png" alt="Uncertainty Analysis" width="700">
+</p>
 
 ---
 
