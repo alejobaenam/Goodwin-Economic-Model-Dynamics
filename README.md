@@ -20,7 +20,7 @@ This repository provides simulations and analyses of the Goodwin growth-cycle mo
 
 1. Clone the repository to your local machine:
 ```bash
-   git clone https://github.com/yourusername/Goodwin-Model-Dynamics.git
+   git clone https://github.com/alejobaenam/Goodwin-Economic-Model-Dynamics.git
 ```
 
 2. Open the MATLAB project and run the scripts and Simulink models for each section.
